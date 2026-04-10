@@ -1,4 +1,4 @@
-# 🎁 Snowman Starter Pack System
+# 🎁 Aiben Starter Pack System
 
 An advanced starter pack system for ESX Legacy FiveM servers that provides new players with customizable welcome rewards including cash, items, weapons, and vehicles.
 
@@ -167,7 +167,7 @@ Config.Packs = {
 ## 📁 File Structure
 
 ```
-Snowman_StarterPack/
+StarterPack/
 ├── README.md                 # This file
 ├── fxmanifest.lua           # FiveM manifest
 ├── config.lua               # Configuration file
@@ -335,7 +335,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Snowman** - Created and maintained with ❤️
+**Aiben** - Created and maintained with ❤️
 
 ---
 
